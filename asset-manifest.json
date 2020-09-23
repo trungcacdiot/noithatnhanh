@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/noithatnhanh/static/css/main.5afa4ae2.chunk.css",
+    "main.js": "/noithatnhanh/static/js/main.225a3ff0.chunk.js",
+    "main.js.map": "/noithatnhanh/static/js/main.225a3ff0.chunk.js.map",
+    "runtime-main.js": "/noithatnhanh/static/js/runtime-main.d7cf1261.js",
+    "runtime-main.js.map": "/noithatnhanh/static/js/runtime-main.d7cf1261.js.map",
+    "static/js/2.97acc8e8.chunk.js": "/noithatnhanh/static/js/2.97acc8e8.chunk.js",
+    "static/js/2.97acc8e8.chunk.js.map": "/noithatnhanh/static/js/2.97acc8e8.chunk.js.map",
+    "index.html": "/noithatnhanh/index.html",
+    "precache-manifest.08d03b464f6eff380022105daa241f88.js": "/noithatnhanh/precache-manifest.08d03b464f6eff380022105daa241f88.js",
+    "service-worker.js": "/noithatnhanh/service-worker.js",
+    "static/css/main.5afa4ae2.chunk.css.map": "/noithatnhanh/static/css/main.5afa4ae2.chunk.css.map",
+    "static/js/2.97acc8e8.chunk.js.LICENSE.txt": "/noithatnhanh/static/js/2.97acc8e8.chunk.js.LICENSE.txt",
+    "static/media/chevron-left-solid.svg": "/noithatnhanh/static/media/chevron-left-solid.dc880f17.svg",
+    "static/media/chevron-right-solid.svg": "/noithatnhanh/static/media/chevron-right-solid.1fce7054.svg",
+    "static/media/facebook-brands.svg": "/noithatnhanh/static/media/facebook-brands.62d8b6ef.svg",
+    "static/media/google-plus-g-brands.svg": "/noithatnhanh/static/media/google-plus-g-brands.276f52a7.svg",
+    "static/media/heart-regular.svg": "/noithatnhanh/static/media/heart-regular.311b7fc9.svg",
+    "static/media/picture-1.jpg": "/noithatnhanh/static/media/picture-1.639cc557.jpg",
+    "static/media/picture-10.jpg": "/noithatnhanh/static/media/picture-10.b916684b.jpg",
+    "static/media/picture-2.jpg": "/noithatnhanh/static/media/picture-2.83e4d826.jpg",
+    "static/media/picture-3.jpg": "/noithatnhanh/static/media/picture-3.d5378bab.jpg",
+    "static/media/picture-3jpg.jpg": "/noithatnhanh/static/media/picture-3jpg.58ab4d69.jpg",
+    "static/media/picture-4.jpg": "/noithatnhanh/static/media/picture-4.58bb29db.jpg",
+    "static/media/picture-5.jpg": "/noithatnhanh/static/media/picture-5.f9f04f7d.jpg",
+    "static/media/picture-6.jpg": "/noithatnhanh/static/media/picture-6.869ee25c.jpg",
+    "static/media/picture-7.jpg": "/noithatnhanh/static/media/picture-7.a5a2a129.jpg",
+    "static/media/picture-8.jpg": "/noithatnhanh/static/media/picture-8.27e381ef.jpg",
+    "static/media/picture-9.jpg": "/noithatnhanh/static/media/picture-9.5616369f.jpg",
+    "static/media/user-regular.svg": "/noithatnhanh/static/media/user-regular.29def3e5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7cf1261.js",
+    "static/js/2.97acc8e8.chunk.js",
+    "static/css/main.5afa4ae2.chunk.css",
+    "static/js/main.225a3ff0.chunk.js"
+  ]
+}
