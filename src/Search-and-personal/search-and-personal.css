@@ -5,3 +5,49 @@
   display: flex;
   align-items: center;
 }
+.logo p {
+  font-size: 25px;
+  padding-left: 15px;
+  font-weight: 700;
+}
+.SearchAndPersonal {
+  margin-top: 40px;
+  justify-content: space-evenly;
+}
+.search input {
+  font-size: 25px;
+  width: 400px;
+  height: 50px;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+}
+.personal__like__icon {
+  width: 30px;
+  height: 30px;
+  padding-bottom: 10px;
+}
+.personal__like {
+  flex-direction: column;
+  justify-content: center;
+  width: 100px;
+  height: 100px;
+  background-color: whitesmoke;
+  border-radius: 100px;
+}
+.personal__name__icon {
+  width: 40px;
+  height: 40px;
+  padding-bottom: 10px;
+}
+.personal__name__login {
+  color: rgb(134, 132, 132);
+}
+.personal__name__name {
+  color: black;
+  font-weight: 600;
+}
+.personal {
+  width: 15%;
+  justify-content: space-between;
+}

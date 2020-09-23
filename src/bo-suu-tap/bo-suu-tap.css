@@ -1,0 +1,31 @@
+.navigation-small {
+  display: flex;
+  list-style-type: none;
+  width: 130%;
+  justify-content: space-evenly;
+  font-size: 15px;
+}
+.bo-suu-tap p {
+  font-size: 40px;
+  padding: 20px;
+}
+.bo-suu-tap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.list-picture {
+  width: 234px;
+}
+.button-xem-tat-ca {
+  background-color: white;
+  padding: 15px 20px 15px 20px;
+  font-size: 18px;
+  border-radius: 10px;
+}
+.button-xem-tat-ca:hover {
+  background-color: rgb(255, 187, 0);
+  color: white;
+  padding: 15px 20px 15px 20px;
+  font-size: 18px;
+}

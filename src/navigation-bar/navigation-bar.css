@@ -1,0 +1,11 @@
+.navigation-container {
+  display: flex;
+  padding: 20px 0 10px 0;
+  justify-content: center;
+}
+.navigation {
+  display: flex;
+  list-style-type: none;
+  width: 70%;
+  justify-content: space-evenly;
+}

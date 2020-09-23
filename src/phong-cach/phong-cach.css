@@ -1,0 +1,16 @@
+.phongcach {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+}
+.p-phongcach {
+  font-size: 40px;
+  padding: 20px;
+}
+.p-content {
+  color: rgb(110, 110, 110);
+}
+.picture99 {
+  padding: 20px 0 20px 0;
+}
