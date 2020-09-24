@@ -7,7 +7,7 @@ class SonNavigation extends Component {
   render() {
     return (
       <div className="son-of-navigation">
-        <img src={Picture1} />
+        <img className="picture1" src={Picture1} />
         <div className="button-picture">
           <div className="content-picture">
             <p className="p1">Nội thất bàn ăn sang trọng cổ điển</p>

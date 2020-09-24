@@ -33,7 +33,7 @@ function App() {
       <div>
         <Thuonghieu />
       </div>
-      <div>
+      <div className="App__contact">
         <Contact />
       </div>
     </div>

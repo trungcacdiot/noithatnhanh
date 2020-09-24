@@ -21,6 +21,7 @@
   border-top: none;
   border-left: none;
   border-right: none;
+  padding: 5px 5px 5px 10px;
 }
 .personal__like__icon {
   width: 30px;
