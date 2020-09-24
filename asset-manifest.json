@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/noithatnhanh/static/css/main.5afa4ae2.chunk.css",
-    "main.js": "/noithatnhanh/static/js/main.225a3ff0.chunk.js",
-    "main.js.map": "/noithatnhanh/static/js/main.225a3ff0.chunk.js.map",
+    "main.css": "/noithatnhanh/static/css/main.0fb73d87.chunk.css",
+    "main.js": "/noithatnhanh/static/js/main.2672897b.chunk.js",
+    "main.js.map": "/noithatnhanh/static/js/main.2672897b.chunk.js.map",
     "runtime-main.js": "/noithatnhanh/static/js/runtime-main.d7cf1261.js",
     "runtime-main.js.map": "/noithatnhanh/static/js/runtime-main.d7cf1261.js.map",
-    "static/js/2.97acc8e8.chunk.js": "/noithatnhanh/static/js/2.97acc8e8.chunk.js",
-    "static/js/2.97acc8e8.chunk.js.map": "/noithatnhanh/static/js/2.97acc8e8.chunk.js.map",
+    "static/js/2.35a06c14.chunk.js": "/noithatnhanh/static/js/2.35a06c14.chunk.js",
+    "static/js/2.35a06c14.chunk.js.map": "/noithatnhanh/static/js/2.35a06c14.chunk.js.map",
     "index.html": "/noithatnhanh/index.html",
-    "precache-manifest.08d03b464f6eff380022105daa241f88.js": "/noithatnhanh/precache-manifest.08d03b464f6eff380022105daa241f88.js",
+    "precache-manifest.73e725feebc3f9885089eee7c4751a08.js": "/noithatnhanh/precache-manifest.73e725feebc3f9885089eee7c4751a08.js",
     "service-worker.js": "/noithatnhanh/service-worker.js",
-    "static/css/main.5afa4ae2.chunk.css.map": "/noithatnhanh/static/css/main.5afa4ae2.chunk.css.map",
-    "static/js/2.97acc8e8.chunk.js.LICENSE.txt": "/noithatnhanh/static/js/2.97acc8e8.chunk.js.LICENSE.txt",
+    "static/css/main.0fb73d87.chunk.css.map": "/noithatnhanh/static/css/main.0fb73d87.chunk.css.map",
+    "static/js/2.35a06c14.chunk.js.LICENSE.txt": "/noithatnhanh/static/js/2.35a06c14.chunk.js.LICENSE.txt",
     "static/media/chevron-left-solid.svg": "/noithatnhanh/static/media/chevron-left-solid.dc880f17.svg",
     "static/media/chevron-right-solid.svg": "/noithatnhanh/static/media/chevron-right-solid.1fce7054.svg",
     "static/media/facebook-brands.svg": "/noithatnhanh/static/media/facebook-brands.62d8b6ef.svg",
@@ -32,8 +32,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d7cf1261.js",
-    "static/js/2.97acc8e8.chunk.js",
-    "static/css/main.5afa4ae2.chunk.css",
-    "static/js/main.225a3ff0.chunk.js"
+    "static/js/2.35a06c14.chunk.js",
+    "static/css/main.0fb73d87.chunk.css",
+    "static/js/main.2672897b.chunk.js"
   ]
 }
