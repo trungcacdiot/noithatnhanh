@@ -1,27 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dcc19c3f51f77f1b29b3c183b96b1d89",
+    "revision": "84f72dd76dcd6566234d32e93add3fe4",
     "url": "/noithatnhanh/index.html"
   },
   {
-    "revision": "7bb57faf0e4d43086ef2",
-    "url": "/noithatnhanh/static/css/main.0fb73d87.chunk.css"
+    "revision": "a1ca17c9bb6eded5b6b9",
+    "url": "/noithatnhanh/static/css/main.9c35f661.chunk.css"
   },
   {
-    "revision": "87f62c8836302b6ebc3f",
-    "url": "/noithatnhanh/static/js/2.35a06c14.chunk.js"
+    "revision": "641abc23a7e6a22c7b8a",
+    "url": "/noithatnhanh/static/js/2.3c0fc33b.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/noithatnhanh/static/js/2.35a06c14.chunk.js.LICENSE.txt"
+    "url": "/noithatnhanh/static/js/2.3c0fc33b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7bb57faf0e4d43086ef2",
-    "url": "/noithatnhanh/static/js/main.2672897b.chunk.js"
+    "revision": "a1ca17c9bb6eded5b6b9",
+    "url": "/noithatnhanh/static/js/main.258561bc.chunk.js"
   },
   {
     "revision": "ae00e91fab681b3f1bd3",
     "url": "/noithatnhanh/static/js/runtime-main.d7cf1261.js"
+  },
+  {
+    "revision": "c641dbee1d75892e4d88bdc31560c91b",
+    "url": "/noithatnhanh/static/media/Montserrat-SemiBold.c641dbee.ttf"
+  },
+  {
+    "revision": "43dd5b7a3d277362d5e801e5353e3a01",
+    "url": "/noithatnhanh/static/media/Montserrat-Thin.43dd5b7a.ttf"
   },
   {
     "revision": "dc880f17456d5cad7f07d83554c22b9b",
@@ -30,6 +38,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1fce70541cd225507e29c233e23f2cb2",
     "url": "/noithatnhanh/static/media/chevron-right-solid.1fce7054.svg"
+  },
+  {
+    "revision": "3b30c82204fe750dcaa3c5113585f6ee",
+    "url": "/noithatnhanh/static/media/chevron-up-solid.3b30c822.svg"
   },
   {
     "revision": "62d8b6ef8e6c796a5ddad822dff96874",
@@ -86,6 +98,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "5616369fd186082488263372efdcb3ea",
     "url": "/noithatnhanh/static/media/picture-9.5616369f.jpg"
+  },
+  {
+    "revision": "c6a0effbe867db0941bd5592f8f43810",
+    "url": "/noithatnhanh/static/media/search-solid.c6a0effb.svg"
   },
   {
     "revision": "29def3e5dd923346cc9efa53b9bc0b65",
