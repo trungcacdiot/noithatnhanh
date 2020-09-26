@@ -7,9 +7,10 @@
 .p-phongcach {
   font-size: 40px;
   padding: 20px;
+  
 }
 .p-content {
-  color: rgb(110, 110, 110);
+  color: #999999;
 }
 .group-picture {
   position: relative;

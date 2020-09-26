@@ -15,15 +15,15 @@ class BoSuuTap extends Component {
       <div className="bo-suu-tap">
         <p>Bộ sưu tập</p>
         <ul className="navigation-small">
-          <li>TẤT CẢ</li>
-          <li>CHUNG CƯ</li>
-          <li>NHÀ Ở</li>
-          <li>VĂN PHÒNG</li>
-          <li>KHÁCH SẠN</li>
-          <li>NHÀ HÀNG & CAFÉ</li>
-          <li>ĐỒ TRANG TRÍ</li>
-          <li>TRẺ EM</li>
-          <li>CÔNG TRÌNH KHÁC</li>
+          <li><a href="#">TẤT CẢ</a></li>
+          <li><a href="#">CHUNG CƯ</a></li>
+          <li><a href="#">NHÀ Ở</a></li>
+          <li><a href="#">VĂN PHÒNG</a></li>
+          <li><a href="#">KHÁCH SẠN</a></li>
+          <li><a href="#">NHÀ HÀNG & CAFÉ</a></li>
+          <li><a href="#">ĐỒ TRANG TRÍ</a></li>
+          <li><a href="#">TRẺ EM</a></li>
+          <li><a href="#">CÔNG TRÌNH KHÁC</a></li>
         </ul>
         <div className="list-sanpham">
           <Sanpham

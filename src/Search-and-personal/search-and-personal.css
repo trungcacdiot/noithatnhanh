@@ -5,6 +5,11 @@
   display: flex;
   align-items: center;
 }
+@font-face {
+  font-family: Montserrat-thin;
+  src: url(../fonts/Montserrat-Thin.ttf);
+}
+
 .logo p {
   font-size: 25px;
   padding-left: 15px;
@@ -15,13 +20,15 @@
   justify-content: space-evenly;
 }
 .search input {
-  font-size: 25px;
+  font-family: Montserrat-thin, serif;
+  font-weight: 600;
+  font-size: 18px;
   width: 400px;
   height: 50px;
   border-top: none;
   border-left: none;
   border-right: none;
-  padding: 5px 5px 5px 10px;
+  padding: 5px 5px 0px 10px;
 }
 .personal__like__icon {
   width: 30px;
@@ -51,4 +58,16 @@
 .personal {
   width: 15%;
   justify-content: space-between;
+}
+.search{
+  display: flex;
+  position: relative;
+}
+
+.search-icon{
+  position: absolute;
+  left: 380px;
+  top: 20px;
+  width: 30px;
+  height: 30px;
 }

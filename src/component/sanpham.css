@@ -33,6 +33,7 @@
 .architects {
   color: rgb(156, 154, 154);
   padding: 20px 0 20px 0;
+  font-size: 14px;
 }
 .architects:hover {
   color: black;

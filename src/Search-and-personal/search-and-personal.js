@@ -3,6 +3,7 @@ import "./search-and-personal.css";
 import Picture11 from "../picture/picture-11.jpg";
 import Heart from "./heart-regular.svg";
 import User from "./user-regular.svg";
+import Search from "./search-solid.svg";
 class SearchAndPersonal extends Component {
   render() {
     return (
@@ -13,6 +14,7 @@ class SearchAndPersonal extends Component {
         </div>
         <div className="search">
           <input placeholder="Mục tìm kiếm ..."></input>
+          <img className="search-icon" src={Search}></img>
         </div>
         <div className="personal">
           <div className="personal__name">

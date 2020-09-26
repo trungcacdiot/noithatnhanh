@@ -9,9 +9,11 @@ import BoSuuTap from "./bo-suu-tap/bo-suu-tap";
 import Phongcach from "./phong-cach/phong-cach";
 import Thuonghieu from "./thuong-hieu/thuong-hieu";
 import Contact from "./contact/contact";
+import Menufixed from "./menufixed/menufixed";
 function App() {
   return (
     <div className="App">
+       <Menufixed/>
       <div className="option-start-pages">
         <OptionStart />
       </div>
@@ -36,6 +38,7 @@ function App() {
       <div className="App__contact">
         <Contact />
       </div>
+     
     </div>
   );
 }

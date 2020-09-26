@@ -1,6 +1,5 @@
 import React, { Component } from "react";
 import "./option-start.css";
-
 class OptionStart extends Component {
   render() {
     return (

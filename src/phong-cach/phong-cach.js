@@ -5,7 +5,7 @@ class Phongcach extends Component {
   render() {
     return (
       <div className="phongcach">
-        <p className="p-phongcach">Phong cách</p>
+        <p className="p-phongcach">PHONG CÁCH</p>
         <p className="p-content">
           Tổng hợp bài viết của chuyên gia về kiến trúc, nội thất, đời sống dự
           đoán về xu hướng nội thất trong tương lai

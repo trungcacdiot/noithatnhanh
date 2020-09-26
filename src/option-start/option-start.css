@@ -7,7 +7,7 @@
 }
 .OptionStart {
   justify-content: space-evenly;
-  padding-top: 5px;
+  
 }
 
 .option1 {
@@ -43,10 +43,10 @@
 .up-product {
   color: white;
   background-color: #ffc107;
-  padding: 2px 20px 2px 20px;
+  padding: 6px 20px 6px 20px;
 }
 .OptionStart {
-  border-bottom: inset;
+  border-bottom: 1px inset;
 }
 .language__VN {
   border-right: solid #2d2d3380 2px;

@@ -1,7 +1,7 @@
 .navigation-small {
   display: flex;
   list-style-type: none;
-  width: 130%;
+  width: 110%;
   justify-content: space-evenly;
   font-size: 15px;
 }
@@ -21,11 +21,21 @@
   background-color: white;
   padding: 15px 20px 15px 20px;
   font-size: 18px;
-  border-radius: 10px;
+
 }
 .button-xem-tat-ca:hover {
-  background-color: rgb(255, 187, 0);
+  background-color: #ffcc00;
   color: white;
   padding: 15px 20px 15px 20px;
   font-size: 18px;
+  border-style: none;
+}
+.navigation-small li a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
+
+.navigation-small li a:hover{
+  padding-bottom: 5px;
+  border-bottom: solid rgb(228, 167, 56) 2px;
 }

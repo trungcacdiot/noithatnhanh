@@ -5,7 +5,7 @@ class Thuonghieu extends Component {
   render() {
     return (
       <div className="thuonghieu">
-        <p className="p-thuonghieu">Thương hiệu</p>
+        <p className="p-thuonghieu">THƯƠNG HIỆU</p>
         <p className="p-content">
           Top những đơn vị tư vấn, thiết kế & thi công chất lượng được nhiều
           khách hàng tin tưởng, quan tâm, theo dõi và ủng hộ
