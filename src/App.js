@@ -26,13 +26,13 @@ function App() {
       <div className="son-of-navigation-bar">
         <SonNavigation />
       </div>
-      <div className="bo-suu-tap">
+      <div className="bo-suu-tap" id="bo-suu-tap">
         <BoSuuTap />
       </div>
-      <div>
+      <div id="phong-cach">
         <Phongcach />
       </div>
-      <div>
+      <div id="thuong-hieu">
         <Thuonghieu />
       </div>
       <div className="App__contact">

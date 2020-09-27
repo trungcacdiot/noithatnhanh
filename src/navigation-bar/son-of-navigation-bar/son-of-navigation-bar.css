@@ -34,3 +34,10 @@
 .picture1 {
   width: 100%;
 }
+.son-of-navigation{
+  position: relative;
+}
+.area{
+  stroke: tomato;
+  z-index: 2;
+}
