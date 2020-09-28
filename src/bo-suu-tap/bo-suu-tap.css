@@ -16,13 +16,18 @@
 }
 .list-picture {
   width: 234px;
+  transform: scale(1, 1);
+  transition: all 0.5s;
 }
+.list-picture:hover {
+  transform: scale(1.3, 1.3);
+}
+
 .button-xem-tat-ca {
   background-color: white;
   padding: 15px 20px 15px 20px;
   font-size: 18px;
-    height: 60px;
-
+  height: 60px;
 }
 .button-xem-tat-ca:hover {
   background-color: #ffcc00;
@@ -31,12 +36,12 @@
   font-size: 18px;
   border-style: none;
 }
-.navigation-small li a{
+.navigation-small li a {
   text-decoration: none;
   color: rgb(0, 0, 0);
 }
 
-.navigation-small li a:hover{
+.navigation-small li a:hover {
   padding-bottom: 5px;
   border-bottom: solid rgb(228, 167, 56) 2px;
 }
