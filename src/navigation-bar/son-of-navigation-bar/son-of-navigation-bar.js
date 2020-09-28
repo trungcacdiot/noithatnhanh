@@ -3,6 +3,7 @@ import "./son-of-navigation-bar.css";
 import Picture1 from "./picture-1.jpg";
 import Left from "./chevron-left-solid.svg";
 import Right from "./chevron-right-solid.svg";
+import Sanpham from "../../component/sanpham";
 class SonNavigation extends Component {
   render() {
     return (

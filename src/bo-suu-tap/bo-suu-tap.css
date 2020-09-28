@@ -16,13 +16,17 @@
 }
 .list-picture {
   width: 234px;
+  transform: scale(1);
+  transition: all 0.5s;
+}
+.list-picture:hover{
+  transform: scale(1.3);
 }
 .button-xem-tat-ca {
   background-color: white;
   padding: 15px 20px 15px 20px;
   font-size: 18px;
-    height: 60px;
-
+  height: 60px;
 }
 .button-xem-tat-ca:hover {
   background-color: #ffcc00;
