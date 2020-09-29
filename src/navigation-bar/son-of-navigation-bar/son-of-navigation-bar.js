@@ -23,9 +23,25 @@ class SonNavigation extends Component {
           <area
             target=""
             onClick={this.myfunction}
-            shape="rect"
-            coords="0,0,500,500"
-            alt="Computer"
+            shape="circle"
+            coords="270,235,20"
+            alt="1"
+            href="#"
+          ></area>
+          <area
+            target=""
+            onClick={this.myfunction}
+            shape="circle"
+            coords="242,358,20"
+            alt="1"
+            href="#"
+          ></area>
+          <area
+            target=""
+            onClick={this.myfunction}
+            shape="circle"
+            coords="362,650,20"
+            alt="1"
             href="#"
           ></area>
         </map>
