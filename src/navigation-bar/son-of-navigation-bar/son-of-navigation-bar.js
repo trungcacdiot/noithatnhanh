@@ -4,25 +4,38 @@ import Picture1 from "./picture-1.jpg";
 import Left from "./chevron-left-solid.svg";
 import Right from "./chevron-right-solid.svg";
 import Sanpham from "../../component/sanpham";
+import Picture3 from "../../picture/picture-3.jpg";
 class SonNavigation extends Component {
+  myfunction() {
+    var popup = document.getElementById("myPopup");
+    popup.classList.toggle("show");
+  }
   render() {
     return (
       <div className="son-of-navigation">
         <img
           className="picture1"
           src={Picture1}
-          usemap="#workmap"
           alt="Workplace"
+          useMap="#workmap"
         />
         <map name="workmap">
           <area
-            className="area"
-            shape="circle"
-            coords="337,300,100"
-            alt="Cup of coffee"
-            href={Picture1}
+            target=""
+            onClick={this.myfunction}
+            shape="rect"
+            coords="0,0,500,500"
+            alt="Computer"
+            href="#"
           ></area>
         </map>
+
+        <div className="sanpham-position" id="myPopup">
+          <Sanpham
+            picture={<img className="list-picture" src={Picture3} />}
+            content="Nội thất bàn ăn sang trọng cổ điển"
+          />
+        </div>
         <div className="button-picture">
           <div className="content-picture">
             <p className="p1">Nội thất bàn ăn sang trọng cổ điển</p>

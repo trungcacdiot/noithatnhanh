@@ -34,10 +34,27 @@
 .picture1 {
   width: 100%;
 }
-.son-of-navigation{
+.son-of-navigation {
   position: relative;
 }
-.area{
+.area {
   stroke: tomato;
   z-index: 2;
+}
+.sanpham-position {
+  width: 300px;
+  height: 400px;
+  padding: 80px 90px 10px 110px;
+  border-radius: 500px;
+  background-color: white;
+  position: absolute;
+  top: 80px;
+  left: 750px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  visibility: hidden;
+}
+.show {
+  visibility: visible;
 }
