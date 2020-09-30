@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/noithatnhanh/static/css/main.f1d02d2a.chunk.css",
-    "main.js": "/noithatnhanh/static/js/main.68fd818b.chunk.js",
-    "main.js.map": "/noithatnhanh/static/js/main.68fd818b.chunk.js.map",
+    "main.css": "/noithatnhanh/static/css/main.5723cf5f.chunk.css",
+    "main.js": "/noithatnhanh/static/js/main.a5ec50fd.chunk.js",
+    "main.js.map": "/noithatnhanh/static/js/main.a5ec50fd.chunk.js.map",
     "runtime-main.js": "/noithatnhanh/static/js/runtime-main.d7cf1261.js",
     "runtime-main.js.map": "/noithatnhanh/static/js/runtime-main.d7cf1261.js.map",
-    "static/js/2.cee344df.chunk.js": "/noithatnhanh/static/js/2.cee344df.chunk.js",
-    "static/js/2.cee344df.chunk.js.map": "/noithatnhanh/static/js/2.cee344df.chunk.js.map",
+    "static/js/2.948e2598.chunk.js": "/noithatnhanh/static/js/2.948e2598.chunk.js",
+    "static/js/2.948e2598.chunk.js.map": "/noithatnhanh/static/js/2.948e2598.chunk.js.map",
     "index.html": "/noithatnhanh/index.html",
-    "precache-manifest.0999836e8e59e7fcef48a5616f3b02d1.js": "/noithatnhanh/precache-manifest.0999836e8e59e7fcef48a5616f3b02d1.js",
+    "precache-manifest.f7889708b04372ea0927de11af225b6b.js": "/noithatnhanh/precache-manifest.f7889708b04372ea0927de11af225b6b.js",
     "service-worker.js": "/noithatnhanh/service-worker.js",
-    "static/css/main.f1d02d2a.chunk.css.map": "/noithatnhanh/static/css/main.f1d02d2a.chunk.css.map",
-    "static/js/2.cee344df.chunk.js.LICENSE.txt": "/noithatnhanh/static/js/2.cee344df.chunk.js.LICENSE.txt",
+    "static/css/main.5723cf5f.chunk.css.map": "/noithatnhanh/static/css/main.5723cf5f.chunk.css.map",
+    "static/js/2.948e2598.chunk.js.LICENSE.txt": "/noithatnhanh/static/js/2.948e2598.chunk.js.LICENSE.txt",
     "static/media/App.css": "/noithatnhanh/static/media/Montserrat-SemiBold.c641dbee.ttf",
     "static/media/search-and-personal.css": "/noithatnhanh/static/media/Montserrat-Thin.43dd5b7a.ttf",
     "static/media/chevron-left-solid.svg": "/noithatnhanh/static/media/chevron-left-solid.dc880f17.svg",
@@ -36,8 +36,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d7cf1261.js",
-    "static/js/2.cee344df.chunk.js",
-    "static/css/main.f1d02d2a.chunk.css",
-    "static/js/main.68fd818b.chunk.js"
+    "static/js/2.948e2598.chunk.js",
+    "static/css/main.5723cf5f.chunk.css",
+    "static/js/main.a5ec50fd.chunk.js"
   ]
 }
