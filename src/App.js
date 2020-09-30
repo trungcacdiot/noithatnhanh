@@ -20,12 +20,21 @@ class App extends Component {
       slide: 1,
     };
     this.next = this.next.bind(this);
+    this.back = this.back.bind(this);
   }
+
   next() {
     if (this.state.slide === 3) {
       this.setState({ slide: 1 });
     } else {
       this.setState({ slide: this.state.slide + 1 });
+    }
+  }
+  back() {
+    if (this.state.slide === 1) {
+      this.setState({ slide: 3 });
+    } else {
+      this.setState({ slide: this.state.slide - 1 });
     }
   }
   render() {
@@ -76,7 +85,7 @@ class App extends Component {
             <p className="p2">HYURE ARCHITECTS</p>
           </div>
           <div className="personal__like__icon">
-            <img className="left-icon" src={Left} />
+            <img className="left-icon" src={Left} onClick={this.back} />
             <img className="right-icon" src={Right} onClick={this.next} />
           </div>
         </div>
