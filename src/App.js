@@ -37,10 +37,12 @@ class App extends Component {
       this.setState({ slide: this.state.slide - 1 });
     }
   }
+
   render() {
     return (
-      <div className="App">
+      <div className="App" id="box">
         <Menufixed />
+
         <div className="option-start-pages">
           <OptionStart />
         </div>

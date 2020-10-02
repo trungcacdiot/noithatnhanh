@@ -5,7 +5,7 @@ class Sanpham extends Component {
   render() {
     return (
       <div className="sanpham">
-        <div>{this.props.picture}</div>
+        <div className="sanpham__picture">{this.props.picture}</div>
         <div className="p1p2">
           <p className="p1">NEW</p>
           <p className="p2">HAND MADE</p>
