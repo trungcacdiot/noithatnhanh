@@ -24,10 +24,11 @@
 }
 .none {
   transform: scale(0);
+  overflow: hidden;
   transition: all 1s;
 }
-.position {
+/* .position {
   position: absolute;
   top: 0px;
   left: 0px;
-}
+} */

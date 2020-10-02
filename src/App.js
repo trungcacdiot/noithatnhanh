@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import OptionStart from "./Option-start/option-start";
+import OptionStart from "./option-start/option-start";
 import "./App.css";
 
 import SearchAndPersonal from "./Search-and-personal/search-and-personal";
@@ -58,7 +58,7 @@ class App extends Component {
             })}
           >
             {" "}
-            <SonNavigation />
+            <SonNavigation myPop="first" isDisplay={this.state.slide === 1} />
           </div>
           <div
             className={classNames("position", {
@@ -67,7 +67,7 @@ class App extends Component {
             })}
           >
             {" "}
-            <SonNavigation />
+            <SonNavigation myPop="second" isDisplay={this.state.slide === 2} />
           </div>
           <div
             className={classNames("position", {
@@ -76,7 +76,7 @@ class App extends Component {
             })}
           >
             {" "}
-            <SonNavigation />
+            <SonNavigation myPop="third" isDisplay={this.state.slide === 3} />
           </div>
         </div>
         <div className="button-picture">

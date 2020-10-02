@@ -62,3 +62,7 @@
   z-index: 4;
   visibility: visible;
 }
+.off {
+  display: none;
+  overflow: hidden;
+}
