@@ -8,7 +8,7 @@ class App extends Component {
     return (
       <Router>
         <switch>
-          <Route exact path="/" children={<Routera />} />
+          <Route exact path="/noithatnhanh" children={<Routera />} />
           <Route
             path="/sanpham"
             children={

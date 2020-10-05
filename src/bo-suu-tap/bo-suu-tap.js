@@ -54,43 +54,43 @@ class BoSuuTap extends Component {
 
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture3} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture4} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture5} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture6} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture7} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture8} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
           <Link to="/sanpham">
             <Sanpham
-              picture={<img className="list-picture" src={Picture2} />}
+              picture={<img className="list-picture" src={Picture9} />}
               content="Nội thất bàn ăn sang trọng cổ điển"
             />
           </Link>
