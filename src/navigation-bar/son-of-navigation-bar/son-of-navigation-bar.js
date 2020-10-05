@@ -1,9 +1,9 @@
 import React, { Component } from "react";
 import "./son-of-navigation-bar.css";
 import Picture1 from "./picture-1.jpg";
-
+import { Link } from "react-router-dom";
 import Sanpham from "../../component/sanpham";
-import Picture3 from "../../picture/picture-3.jpg";
+import Picture2 from "../../picture/picture-2.jpg";
 class SonNavigation extends Component {
   constructor(props) {
     super(props);
@@ -51,10 +51,12 @@ class SonNavigation extends Component {
           </map>
 
           <div className="sanpham-position" id={this.props.myPop}>
-            <Sanpham
-              picture={<img className="list-picture" src={Picture3} />}
-              content="Nội thất bàn ăn sang trọng cổ điển"
-            />
+            <Link to="/sanpham">
+              <Sanpham
+                picture={<img className="list-picture" src={Picture2} />}
+                content="Nội thất bàn ăn sang trọng cổ điển"
+              />
+            </Link>
           </div>
         </div>
       );
